@@ -1,2 +1,3 @@
 This is google
 Added a search bar
+Add image search
